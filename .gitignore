@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Dependency files
+*.d
+
+# Compiled libraries
+*.a
+*.lib
+
+# Build directories
+**/build/
+bin/
+
+# Environment config
+.vscode/
